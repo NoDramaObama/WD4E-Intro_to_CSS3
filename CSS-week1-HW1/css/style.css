@@ -38,3 +38,11 @@ p{
   line-height: 20px;
   color: #ffffff;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-around;
+    align-items: center;
+    row-gap: 20px;
+    padding: 20px;
