@@ -49,3 +49,9 @@ p{
     align-items: center;
     row-gap: 20px;
     padding: 20px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
